@@ -1,5 +1,5 @@
 # Welcome to OpenBills4Africa
-Open data and civic technology for citizen engagement and government accountability
+OpenBills4Africa is a data and civic technology initiative for citizen engagement and government accountability
 
 
 ## Who we are
