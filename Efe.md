@@ -8,4 +8,4 @@ Below is a detailed CV.
 | Leadership  | Research and Development team  |
 | Experience  | Education, Research, MVP development, Web development and data analytics  |
 | Education  | Masters of Science by Research (MRes) in Visual Analytics and a Bachelors of Science (BSc) in Information from Middlesex University.  |
-| Believes  | Technology is the fastest way for citizens to engage the government  |
+| Belief  | Technology is the fastest way for citizens to engage the government  |
