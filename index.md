@@ -20,7 +20,7 @@ We are a team of very passionate and responsible citizens structured around.
 The operations team is lead by [John](https://#)
 
 ### Research and Development
-The research and development team is lead by [Efe](/main/Efe.md)
+The research and development team is lead by [Efe](/Efe.md)
 
 ### Civic Engagement 
 The civic engagement team is lead by [Osahon](https://#)
