@@ -27,4 +27,4 @@ The civic engagement team is lead by [Osahon](https://#)
 
 
 ## How to reach us
-[Email](https://mailto:openbills4Africa@gmail.com)
+**Email:** openbills4africa@gmail.com
