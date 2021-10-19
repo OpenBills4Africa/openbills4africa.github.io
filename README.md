@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to OpenBills4Africa
+Open data and civic technology for citizen engagement and government accountability
 
-You can use the [editor on GitHub](https://github.com/OpenBills4Africa/openbills4africa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who we are
+Openbills is a civic technology organization using open data technology to promote open governance and civic engagement in Legislative matters. 
 
-### Markdown
+## What we do
+We open up legislative data for political and socio-economic research. While; our team utilizes civic technologies and data-driven tools to analyze and visualize civic engagement aids/resources to drive government transparency and promote accountability in policymaking and implementation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Our Current Projects
+[Know Your Rep](https://#)
+After a survey of X persons in Edo State to discover citizen knowledge of their legislative representative, we found that X% did not know their representative. So, we designed the KYR platform to provide information for citizens to know their representatives, engage with them and understand their responsibilities as representatives. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Our team
+We are a team of very passionate and responsible citizens structured around.
 
-- Bulleted
-- List
+### Operations
+The operations team is lead by [John](https://#)
 
-1. Numbered
-2. List
+### Research and Development
+The research and development team is lead by [Efe](https://#)
 
-**Bold** and _Italic_ and `Code` text
+### Civic Engagement 
+The civic engagement team is lead by [Osahon](https://#)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenBills4Africa/openbills4africa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## How to reach us
+[Email](https://mailto:openbills4Africa@gmail.com)
